@@ -4,6 +4,7 @@ let myString = 'Hello World!!!';
 // NOTE: DO NOT HARD CODE THE SIZE OF `myString`. When you change the value
 // of `myString`, the test should still pass.
 let newString = undefined;
+newString = myString.replace('o','0');
 
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
 
